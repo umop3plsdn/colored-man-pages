@@ -8,7 +8,7 @@ RawBlame
 typeset -AHg less_termcap
 
 # bold & blinking mode
-less_termcap[mb]="${fg_bold[orange]}"
+less_termcap[mb]="${fg_bold[red]}"
 less_termcap[md]="${fg_bold[red]}"
 less_termcap[me]="${reset_color}"
 # standout mode
