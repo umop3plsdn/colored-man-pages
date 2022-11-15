@@ -1,5 +1,3 @@
-
-RawBlame
 # Requires colors autoload.
 # See termcap(5).
 
